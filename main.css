@@ -1,0 +1,265 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.externalheading{
+    
+    height: 30px;
+    background-color: rgb(197, 224, 245);
+}
+.internalheading{
+    
+    height:20px;
+    padding-top: 5px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#float{
+    float: right;
+}
+.externalsub{
+    
+    height:100px;
+}
+.internalsub{
+    
+    height:50px;
+    margin-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.logo{
+    
+    height:50px;
+    width:200px;
+    
+    
+    
+}
+.categoriesheading{
+    padding-top: 15px;
+    height:50px; 
+    width: 150px;
+    float: right;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: darkblue;
+    font-weight: bolder;
+}
+.buttonheading{
+    
+    height:50px; 
+    width: 150px;
+    float: right;
+    background-color: rgba(3, 3, 182, 0.619);
+    color: white;
+    font-size:12px;
+    font-weight: bolder;
+}
+.externalposter{
+    
+    height: 380px;
+    background-color: rgb(151, 219, 240);
+    padding-top: 1px;
+}
+.internalposter{
+    
+    margin-top: 70px;
+    height: 150px;
+    width: 300px;
+    margin-left: 100px;
+    font-size: 60px;
+    text-align: center;
+    background-color: rgb(149, 199, 238);
+    color: blue;
+}
+.desc{
+    padding-left: 120px;
+    font-size: 20px;
+    }
+.explore{
+    padding-top:20px;
+    padding-left: 120px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.modelpic{
+
+    
+    height: 380px;
+    width: 700px;
+    float: right;
+    margin-right: 120px;
+}
+.externaloverview{
+    
+    height: 350px;
+}
+.internaloverview{
+    
+    margin-left: 100px;
+    height: 250px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.overview{
+    
+    height:220px;
+    width:850px;
+    margin-top:13px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: rgb(20, 62, 201);
+}
+.overviewdetails{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 200;
+}
+.box{
+    padding: 5px;
+    float: right;
+    height:230px;
+    width: 350px;
+    background-color: rgb(39, 66, 177);
+    color: white;
+    text-align: center;
+    font-size: 17px;
+}
+.externalspecialities{
+    padding-top: 20px;
+    height: 1000px;
+    background-color: rgba(220, 220, 220, 0.728);
+}
+.internalspecialities{
+    
+    height:900px;
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right:100px;
+}
+.specialities{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: rgb(20, 62, 201);
+    font-size: 20px;
+}
+.treatments{
+    
+    height: 725px;
+    margin-top:30px;
+}
+.boxes{
+    
+    height:350px;
+    width: 280px;
+    float: right;
+    margin-left:10px;
+    margin-right:15px;
+    margin-top:10px;
+}
+.heading{
+    
+    height:40px;
+    width: 280px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    background-color: rgb(42, 42, 203);
+}
+.photo{
+    
+    
+    height:150px;
+    width: 279px;
+}
+.info{
+    background-color: white;
+    padding: 5px;
+}
+
+.externaldoc{
+    
+    height:500px;
+}
+.internaldoc{
+    
+    margin-left: 100px;
+    margin-right: 100px;
+    height:400px;
+    margin-top:50px;
+}
+.docpic{
+    
+    width:350px;
+    height:400px;
+    float: left;
+    margin-top: -370px;
+}
+.aboutdoc{
+    
+    width:750px;
+    height:350px;
+    margin-left:450px;
+    margin-top:20px;
+    float: right;
+}
+.docname{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: rgb(20, 62, 201);
+    font-size: 20px;
+}
+.docinfo{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.extbooking{
+    
+    height:100px;
+}
+.intbooking{
+    padding-top:10px;
+    height:60px;
+    margin-top:20px;
+    margin-left:100px;
+    margin-right:100px;
+    background-color: cornflowerblue;
+
+}
+.appointment{
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    padding-left: 50px;
+}
+
+.details{
+    float: right;
+    margin-top:-16px;
+    margin-right: 40px;
+    background-color: rgb(255, 255, 255);
+}
+.send{
+    float: right;
+    margin-top:-16px;
+    margin-right: 40px;
+    width: 60px;
+    height:30px;
+    font-size: 15px;
+    margin-top:-25px;
+    background-color: darkblue;
+    border: darkblue;
+    color:white;
+}
